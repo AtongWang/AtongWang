@@ -3,7 +3,7 @@
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-   <img width="55%" align="right" alt="home image" src="https://www.zdnet.com/a/img/resize/605df164b50d7127344cce4c41e5e2a36ac951b4/2023/04/05/e0478a88-b3ed-4516-8459-e0b919b4b2bc/artificial-intelligence.jpg?auto=webp&width=1280"/>
+   <img width="55%" align="right" alt="home image" src="AI-CAR.png"/>
 
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/AtongWang)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=cLKN8egAAAAJ&hl)
